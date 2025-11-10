@@ -1,0 +1,10 @@
+/* Custom CSS for your Hugo Blox website */
+/* 缩小职称字体大小 */
+.role {
+  font-size: 0.9em !important;
+}
+
+/* 缩小所属学校字体大小 */
+.organization {
+  font-size: 0.9em !important;
+}
