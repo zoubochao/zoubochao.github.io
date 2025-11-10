@@ -134,12 +134,12 @@ social:
   #   label: Follow me on Twitter # 可以删除
   #   display: # 可以删除
   #     header: true # 可以删除
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack # 可以删除
-  #   icon_pack: fas # 可以删除
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ # 可以删除
-  # - icon: github # 可以删除
-  #   icon_pack: fab # 可以删除
-  #   link: https://github.com/gcushen # 可以删除
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=zh-CN&user=Cb29A3cAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zoubochao
   # - icon: linkedin # 可以删除
   #   icon_pack: fab # 可以删除
   #   link: https://www.linkedin.com/ # 可以删除
@@ -156,7 +156,5 @@ highlight_name: true
 
 I am an Associate Professor at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB), China. where my research interests mainly revolve around affective computing and human AI collaboration. This research is at the intersection of computer science and cognitive science. I received my Ph.D. from Beijing Institute of Technology, advised by professor Prof. Yue Liu. During that, I was a joint training graduate student in the visual attention lab at Harvard Medical School/Brigham and Women's Hospital from Sep. 2015 to Sep. 2017, co-advised by Prof. Jeremy M. Wolfe (https://search.bwh.harvard.edu/new/lab_members.html) (Member of The American Academy of Arts and Sciences). I served as the principal investigator for several projects, including the National Natural Science Foundation of China (NSFC), and a subproject of the National Science and Technology Major Project. He was selected for the Youth Elite Scientist Sponsorship Program. I published more than 30 papers in prestigious journals and conferences, including IEEE Transactions, ICML, AAAI, ACM MM, and NeurIPS, and holds over 10 authorized invention patents. He received the First Prize of the Beijing Natural Science Award in 2024. Currently, he serves as the Deputy Secretary-General of the Youth Working Committee of the China Society of Image and Graphics and as a Board Member of the Beijing Society of Internet of Things.
 
-# Contact
-Email: zoubochao@ustb.edu.cn
-Office: 1023, Electromechanical Information Building
-No. 30 Xueyuan Rd. Haidian District, Beijing
+# Join us:
+We are looking for motivated interns, PhD/master/undergraduate students. If you are interested in working with us, please feel free to drop me an email!
