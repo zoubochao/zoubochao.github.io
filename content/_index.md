@@ -250,13 +250,15 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: zoubochao@ustb.edu.cn
       office_hours:
         - 'Office: 1023, Electromechanical Information Building No. 30 Xueyuan Rd. Haidian District, Beijing'
+      contact_links:
+        - icon: location-dot
+          icon_pack: fas
+          name: Office
+          link: '#'
     design:
       columns: '2'
 ---
