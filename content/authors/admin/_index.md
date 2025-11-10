@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB)
+role: Associate Professor
+# at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,9 +34,6 @@ bio: I am an Associate Professor at the School of Computer & Communication Engin
 #   caption: Your Name
 # #   focal_point: Smart
 #   preview_only: true
-image:
-  filename: zoubochao.png
-  focal_point: Smart
 
 # Interests to show in About widget
 interests:
