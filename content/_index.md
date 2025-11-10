@@ -58,7 +58,7 @@ sections:
         - **[Jan. 2025]** 1 paper accepted by ICASSP 2025
         - **[Jan. 2024]** 1 paper accepted by ICML 2024
     design:
-      columns: '1'
+      columns: '2'
 #  - block: skills
 #    content:
 #      title: Skills
@@ -206,17 +206,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
       title: Recent Publications
