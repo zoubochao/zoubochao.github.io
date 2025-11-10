@@ -134,8 +134,8 @@ social:
   #   label: Follow me on Twitter # 可以删除
   #   display: # 可以删除
   #     header: true # 可以删除
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=Cb29A3cAAAAJ
   - icon: github
     icon_pack: fab

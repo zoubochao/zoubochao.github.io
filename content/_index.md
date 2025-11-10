@@ -47,16 +47,16 @@ sections:
     content:
       title: Recent News
       text: |
-        - [Jan. 2025] 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.
-        - [Jan. 2025] We win the 2025 ACM MM MEGC Challenge (1st for the STR Task)
-        - [Jan. 2025] 邀请报告China MM 2025：微视觉计算高效时空建模方法研究
-        - [Jan. 2025] 1 paper accepted by ICML 2025
-        - [Jan. 2025] 3 paper accepted by Pattern Recognition
-        - [Jan. 2025] 1 paper accepted by IEEE Transactions on Consumer Electronics
-        - [Jan. 2025] 3 Papers accepted by AAAI 2025
-        - [Jan. 2025] 1 paper accepted by ICCV 2025
-        - [Jan. 2025] 1 paper accepted by ICASSP 2025
-        - [Jan. 2024] 1 paper accepted by ICML 2024
+        - **[Jan. 2025]** 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.
+        - **[Jan. 2025]** We win the 2025 ACM MM MEGC Challenge (1st for the STR Task)
+        - **[Jan. 2025]** 邀请报告China MM 2025：微视觉计算高效时空建模方法研究
+        - **[Jan. 2025]** 1 paper accepted by ICML 2025
+        - **[Jan. 2025]** 3 paper accepted by Pattern Recognition
+        - **[Jan. 2025]** 1 paper accepted by IEEE Transactions on Consumer Electronics
+        - **[Jan. 2025]** 3 Papers accepted by AAAI 2025
+        - **[Jan. 2025]** 1 paper accepted by ICCV 2025
+        - **[Jan. 2025]** 1 paper accepted by ICASSP 2025
+        - **[Jan. 2024]** 1 paper accepted by ICML 2024
     design:
       columns: '1'
 #  - block: skills
@@ -206,17 +206,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
@@ -252,13 +252,11 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: zoubochao@ustb.edu.cn
-      office_hours:
-        - 'Office: 1023, Electromechanical Information Building No. 30 Xueyuan Rd. Haidian District, Beijing'
       contact_links:
         - icon: location-dot
           icon_pack: fas
-          name: Office
-          link: '#'
+          name: 1023, Electromechanical Information Building No. 30 Xueyuan Rd. Haidian District, Beijing
+          link: 'https://surl.amap.com/4vUQzYKRV6wJ'
     design:
       columns: '2'
 ---
