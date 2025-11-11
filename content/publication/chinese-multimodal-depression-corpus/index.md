@@ -10,9 +10,7 @@ authors:
 - X Lyu
 - H Ma
 author_notes:
-- "Equal contribution" # Placeholder, user can modify
-- "Equal contribution" # Placeholder, user can modify
-date: "2023-01-01T00:00:00Z" # Placeholder date, please adjust if needed
+date: "2022-06-10T00:00:00Z" # Placeholder date, please adjust if needed
 doi: "" # Placeholder, user can add DOI if available
 publication_types: ["2"] # 2 for Journal article
 publication: "IEEE Transactions on Affective Computing 14 (4), 2823-2838"
@@ -25,10 +23,8 @@ image:
   focal_point: "Center" # Optional focal point for image cropping
   preview_only: false # Optional, set to true to only show preview image
   filename: featured.jpg # Placeholder for the image file
-links:
-- name: Dataset
-  url: https://ieee-dataport.org/open-access/chinese-multimodal-depression-corpus
-url_pdf: "" # Optional PDF link
+
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793717" # Optional PDF link
 url_code: "" # Optional code link
 url_dataset: "https://ieee-dataport.org/open-access/chinese-multimodal-depression-corpus" # Dataset link
 url_poster: "" # Optional poster link
