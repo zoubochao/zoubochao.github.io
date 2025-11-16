@@ -204,7 +204,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication
+          - publications
     design:
       columns: '2'
       view: compact
