@@ -14,7 +14,7 @@ date: "2022-06-10T00:00:00Z" # Placeholder date, please adjust if needed
 doi: "" # Placeholder, user can add DOI if available
 publication: "IEEE Transactions on Affective Computing 14 (4), 2823-2838"
 publication_short: "" # Optional short version of publication name
-abstract: ""
+abstract: "**[TAFFC 2022]**"
 abstract_short: "" # Optional short abstract
 featured: true
 image:
