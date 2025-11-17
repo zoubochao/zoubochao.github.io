@@ -10,6 +10,7 @@ authors:
 - X Lyu
 - H Ma
 author_notes:
+weight: 50
 date: "2022-06-10T00:00:00Z" # Placeholder date, please adjust if needed
 doi: "" # Placeholder, user can add DOI if available
 publication: "IEEE Transactions on Affective Computing 14 (4), 2823-2838"
