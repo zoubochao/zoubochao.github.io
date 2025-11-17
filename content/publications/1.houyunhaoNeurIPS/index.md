@@ -13,7 +13,8 @@ authors:
 - Huimin Ma
 author_notes:
 weight: 10
-date: "" # Placeholder date, please adjust if needed
+show_data: false
+date: "2025-12-01T00:00:00Z" # Placeholder date, please adjust if needed
 doi: "" # Placeholder, user can add DOI if available
 publication: ""
 publication_short: "" # Optional short version of publication name
