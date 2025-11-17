@@ -16,7 +16,6 @@ publication: "IEEE Transactions on Affective Computing 14 (4), 2823-2838"
 publication_short: "" # Optional short version of publication name
 abstract: "**[TAFFC 2022]**"
 abstract_short: "" # Optional short abstract
-featured: true
 image:
   caption: "" # Optional image caption
   focal_point: Smart # Optional focal point for image cropping
