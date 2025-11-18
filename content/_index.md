@@ -208,8 +208,7 @@ sections:
     design:
       columns: '2'
       view: compact
-    sort_by: "weight" # 优先按 weight 排序
-    sort_ascending: true # weight 值越小越靠前
+    order: desc
   # - block: markdown
   #   content:
   #     title: Gallery
