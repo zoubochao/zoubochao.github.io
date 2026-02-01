@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'I am an Associate Professor at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB), China. where my research interests mainly revolve around affective computing and human AI collaboration. '
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -26,7 +26,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'RtapxG1Rc-Cc0rns-nZZGwudjNwHPJ0gHN_6UyLAi_A'
     baidu: ''
 
 # Site header
