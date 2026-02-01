@@ -42,6 +42,8 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  # edit-news
   - block: markdown
     id: news
     content:
@@ -198,6 +200,9 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
+
+  # edit-publications
+  # content\publications
   - block: collection
     id: publications
     content:

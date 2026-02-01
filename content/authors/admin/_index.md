@@ -6,8 +6,8 @@ title: Bochao Zou
 # name_pronunciation: Chien Shiung Wu # 可以删除
 
 # Full name (for SEO)
-first_name: Bochao
-last_name: Zou
+first_name: 博超
+last_name: 邹
 
 # Status emoji
 status:
@@ -152,6 +152,8 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# edit-home
 ---
 
 I am an Associate Professor at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB), China. where my research interests mainly revolve around affective computing and human AI collaboration. This research is at the intersection of computer science and cognitive science. I received my Ph.D. from Beijing Institute of Technology, advised by professor Prof. Yue Liu. During that, I was a joint training graduate student in the visual attention lab at Harvard Medical School/Brigham and Women's Hospital from Sep. 2015 to Sep. 2017, co-advised by Prof. Jeremy M. Wolfe (https://search.bwh.harvard.edu/new/lab_members.html) (Member of The American Academy of Arts and Sciences). I served as the principal investigator for several projects, including the National Natural Science Foundation of China (NSFC), and a subproject of the National Science and Technology Major Project. He was selected for the Youth Elite Scientist Sponsorship Program. I published more than 30 papers in prestigious journals and conferences, including IEEE Transactions, ICML, AAAI, ACM MM, and NeurIPS, and holds over 10 authorized invention patents. He received the First Prize of the Beijing Natural Science Award in 2024. Currently, he serves as the Deputy Secretary-General of the Youth Working Committee of the China Society of Image and Graphics and as a Board Member of the Beijing Society of Internet of Things.
