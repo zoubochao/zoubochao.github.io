@@ -44,6 +44,7 @@ sections:
       username: admin
 
   # edit-news
+  # test
   - block: markdown
     id: news
     content:
