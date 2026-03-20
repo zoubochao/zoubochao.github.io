@@ -17,7 +17,7 @@ authors:
 author_notes:
 weight: 10
 show_data: false
-date: "2025-11-01T00:00:00Z" # Placeholder date, please adjust if needed
+date: "2026-02-01T00:00:00Z" # Placeholder date, please adjust if needed
 doi: "" # Placeholder, user can add DOI if available
 publication: ""
 publication_short: "" # Optional short version of publication name

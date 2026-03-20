@@ -55,7 +55,7 @@ sections:
         - **[Sep. 2025]** 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.
         - **[Aug. 2025]** Invited Talk at China MM 2025：微视觉计算高效时空建模方法研究
         - **[Aug. 2025]** 1 paper accepted by ACM MM 2025
-        - **[Aug. 2025]** We win the 2025 ACM MM MEGC Challenge (1st for the STR Task)
+        - **[Aug. 2025]** We won the 2025 ACM MM MEGC Challenge (1st for the STR Task)
         - **[Jul. 2025]** 1 paper accepted by ICCV 2025 Highlight
         - **[Jun. 2025]** 1 paper accepted by ICML 2025
         - **[Apr. 2025]** 1 paper accepted by ICASSP 2025 Oral Presentation
