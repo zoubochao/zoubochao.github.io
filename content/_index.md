@@ -50,16 +50,18 @@ sections:
     content:
       title: Recent News
       text: |
-        - **[June 2025]** 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.
-        - **[Jan. 2025]** We win the 2025 ACM MM MEGC Challenge (1st for the STR Task)
-        - **[Jan. 2025]** 邀请报告China MM 2025：微视觉计算高效时空建模方法研究
-        - **[Jan. 2025]** 1 paper accepted by ICML 2025
-        - **[Jan. 2025]** 3 paper accepted by Pattern Recognition
-        - **[Jan. 2025]** 1 paper accepted by IEEE Transactions on Consumer Electronics
-        - **[Jan. 2025]** 3 Papers accepted by AAAI 2025
-        - **[Jan. 2025]** 1 paper accepted by ICCV 2025
-        - **[Jan. 2025]** 1 paper accepted by ICASSP 2025
-        - **[Jan. 2024]** 1 paper accepted by ICML 2024
+        - **[Feb. 2026]** 3 paper accepted by CVPR 2026
+        - **[Dec. 2025]** 1 paper accepted by IEEE Transactions on Intelligent Transportation Systems
+        - **[Sep. 2025]** 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.
+        - **[Aug. 2025]** Invited Talk at China MM 2025：微视觉计算高效时空建模方法研究
+        - **[Aug. 2025]** 1 paper accepted by ACM MM 2025
+        - **[Aug. 2025]** We win the 2025 ACM MM MEGC Challenge (1st for the STR Task)
+        - **[Jul. 2025]** 1 paper accepted by ICCV 2025 Highlight
+        - **[Jun. 2025]** 1 paper accepted by ICML 2025
+        - **[Apr. 2025]** 1 paper accepted by ICASSP 2025 Oral Presentation
+        - **[Jan. 2025]** 2 paper accepted by Pattern Recognition
+        - **[Dec. 2024]** 3 Papers accepted by AAAI 2025
+        - **[Jun. 2024]** 1 paper accepted by ICML 2024
     design:
       columns: '2'
 #  - block: skills
