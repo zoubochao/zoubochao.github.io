@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor
+role: Professor
 # at the School of Computer & Communication Engineering, University of Science and Technology Beijing (USTB)
 
 # Organizations/Affiliations to show in About widget
