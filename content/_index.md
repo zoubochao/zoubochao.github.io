@@ -50,6 +50,11 @@ sections:
     content:
       title: Recent News
       text: |
+        - **[Jul. 2026]** We have organized an academic forum on Intelligent Interactive Digital Humans at the 2026 CSIG Young Scientists Conference (Aug. 4).
+        - **[Jul. 2026]** We will host a Special Session on Subtle Visual Computing at ChinaMM 2026 (Aug. 1st). Stay tuned!
+        - **[Jul. 2026]** 1 paper accepted by ACM MM 2026
+        - **[Jul. 2026]** 1 paper accepted by ISMAR 2026
+        - **[Jun. 2026]** 2 papers accepted by IEEE TCSVT
         - **[Feb. 2026]** 3 paper accepted by CVPR 2026
         - **[Dec. 2025]** 1 paper accepted by IEEE Transactions on Intelligent Transportation Systems
         - **[Sep. 2025]** 1 paper accepted by NeurIPS 2025. AGC-Drive, the first real-world large-scale dataset for Aerial-Ground Cooperative 3D perception in driving scenario.

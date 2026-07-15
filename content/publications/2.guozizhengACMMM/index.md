@@ -1,15 +1,10 @@
 ---
 title: "Boosting Micro-Expression Analysis via Prior-Guided Video-Level Regression"
 authors:
-- Yunhao Hou
+- Zizheng Guo
 - Bochao Zou
-- Min Zhang
-- Ran Chen
-- Shangdong Yang
-- Yanmei Zhang
-- Junbao Zhuo
-- Siheng Chen
-- Jiansheng Chen
+- Yinuo Jia
+- Xiangyu Li
 - Huimin Ma
 author_notes:
 weight: 10

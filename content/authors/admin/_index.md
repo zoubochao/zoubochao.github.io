@@ -34,9 +34,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Affective computing
   - Human AI collaboration
-  - Visual Cognition
+  - Affective computing
+
 
 # Education to show in About widget
 education:
