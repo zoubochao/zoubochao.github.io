@@ -163,3 +163,4 @@ I am a Professor at the School of Computer and Communication Engineering, Univer
 
 # Join us:
 We are looking for motivated interns, PhD/master/undergraduate students. If you are interested in working with us, please feel free to drop me an email!
+欢迎有推免名额同学联系，招收2027年9月入学硕士生2-3名、博士生1-2名！
